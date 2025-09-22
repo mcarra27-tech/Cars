@@ -1,0 +1,12 @@
+name: "cars"
+output_dir: "docs"
+navbar:
+  title: "Cars"
+  left: 
+    - text: "Home"
+      href: "index.html"
+    - text: "speed and distance"
+      href: "speed_and_distance.html"
+output:
+  html_document:
+    theme: cosmo
